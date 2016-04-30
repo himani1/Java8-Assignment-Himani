@@ -1,0 +1,19 @@
+1. (a) You are familiar with Twitter posts. A Twitter post contains attributes like Like, Shares and Retweets. A Timeline is defined by the list of posts
+which are sorted by some random criteria. You task is to write Comparator<Post> to sort the Timeline by the following attributes:
+1. Latest Post (Newer to Older)
+2. Number of Retweets (Higher to Lower)
+3. Number of Likes (Higher to Lower)
+4. Number of Shares (Higher to Lower)
+
+1. (b) Write a prettyPrint method for printing the Posts on the console. A prettyPrint method prints a Post in the following format:
+{ (Post attribute) -> [value], (Another Post attribute) -> value)  
+
+You can pull the Tweets from your own profile. To get the tweets your application needs to be registered with twitter. For more instruction please 
+go to the following link: 
+https://dev.twitter.com/
+
+For further reference on how to get tweets see the api: 
+http://twitter4j.org/en/code-examples.html
+
+ 
+
